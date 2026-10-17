@@ -10,7 +10,7 @@ la Dernière Promesse FR du jeu psp
 * 🔴 Testing: 
 
 ## About
-## Screenshots
+la Dernière Promesse FR du jeu psp 
 
 ## Screenshots
 
@@ -20,7 +20,7 @@ la Dernière Promesse FR du jeu psp
   <img src="./3.jpg" width="48%" alt="Screenshot 3">
   <img src="./4.jpg" width="48%" alt="Screenshot 4">
   <img src="./5.jpg" width="48%" alt="Screenshot 5">
-  <img src="./5.jpg" width="48%" alt="Screenshot 6">
+  <img src="./6.jpg" width="48%" alt="Screenshot 6">
 </p>
 
 ## Support
